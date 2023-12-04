@@ -8,6 +8,6 @@ At this job ETL-process was realized.
 As result a report of fraudulent_transactions was formed.
 
 Functional:
-- Python (Pandas, OS, DT),
+- Python (Pandas, OS, Datetime),
 - PostgreSQL,
 - Unix.
